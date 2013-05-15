@@ -1,6 +1,7 @@
 # node-xcode
 
-> parser/toolkit for xcodeproj project files
+> parser/toolkit for xcodeproj project files. Too many bugs, not recommended to use. You can use the following python script to modify your project.pbxproj
+> https://gist.github.com/tanhongxu/7a6078f6f7cea9069972
 
 Allows you to edit xcodeproject files and write them back out.
 
